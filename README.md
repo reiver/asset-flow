@@ -8,7 +8,7 @@
 			<th>Name</th>
 			<th>Example(s)</th>
 			<th>Platforms</th>
-			<th>Description</th>
+			<th>Notes</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -49,6 +49,21 @@
 				<em>etc</em>.
 			</td>
 			<td></td>
+		</tr>
+		<tr>
+			<td>IBAN (International Bank Account Number)</td>
+			<td>
+				<ul>
+					<li>DE75 5121 0800 1245 1261 99</li>
+					<li>GB33 BUKB 2020 1555 5555 55</li>
+					<li>FR76 3000 6000 0112 3456 7890 189</li>
+					<li>NL02 ABNA 0123 4567 89</li>
+					<li>IT60 X054 2811 1010 0000 0123 456</li>
+					<li>CH56 0483 5012 3456 7800 9</li>
+				</ul>
+			</td>
+			<td>SEPA</td>
+			<td>EURO (€) only</td>
 		</tr>
 		<tr>
 			<td>payment pointer</td>
