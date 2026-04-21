@@ -8,6 +8,7 @@
 			<th>Name</th>
 			<th>Example(s)</th>
 			<th>Platforms</th>
+			<td>Assets</td>
 			<th>Notes</th>
 		</tr>
 	</thead>
@@ -22,6 +23,10 @@
 				lightning,
 				stacks
 			</td>
+			<td>
+				BTC (₿)
+			</td>
+			<td></td>
 		</tr>
 		<tr>
 			<td>e-mail address</td>
@@ -30,6 +35,39 @@
 				interact e-transfer,
 				paypal
 			</td>
+			<td>
+				<ul>
+					<li>interact e-transfer:
+						CAD ($)
+					</li>
+					<li>paypal
+						AUD,
+						BRL,
+						CAD ($),
+						CHF,
+						CNY,
+						CZK,
+						DKK,
+						GBP,
+						EUR (€),
+						HKD,
+						HUF,
+						ILS,
+						JPY,
+						MYR,
+						MXN,
+						NOK,
+						NZD,
+						PHP,
+						PLN,
+						SEK,
+						SGD,
+						THB,
+						TWD,
+						USD
+					</li>
+				</ul>
+			</td>
 			<td></td>
 		</tr>
 		<tr>
@@ -37,7 +75,7 @@
 			<td><tt>0x00000000219ab540356cBB839Cbe05303d7705Fa</tt></td>
 			<td>
 				arbitrum,
-				avalanche
+				avalanche,
 				base,
 				berachain,
 				ethereum,
@@ -46,6 +84,16 @@
 				optimism,
 				polygon,
 				sei,
+				<em>etc</em>.
+			</td>
+			<td>
+				AVAX,
+				BERA,
+				ETH,
+				FTM,
+				MATIC,
+				MON,
+				SEI,
 				<em>etc</em>.
 			</td>
 			<td></td>
@@ -64,7 +112,9 @@
 			</td>
 			<td>SEPA</td>
 			<td>
-				EURO (€) only.
+				EURO (€)
+			</td>
+			<td>
 				Not just for Europe; over 70 countries worldwide including the UAE, Brazil, and many African nations.
 				The USA and Canada, however, do not use IBANs.
 			</td>
@@ -81,6 +131,7 @@
 			<td>
 				interledger
 			</td>
+			<td></td>
 			<td></td>
 		</tr>
 		<tr>
@@ -101,6 +152,7 @@
 					</li>
 				</ul>
 			</td>
+			<td></td>
 			<td></td>
 			<td></td>
 		</tr>
