@@ -2,8 +2,77 @@
 
 ## Destination Technologies
 
-| Name | Example | Description |
-|------|---------|-------------|
-|      |         |             |
+<table>
+	<thead>
+		<tr>
+			<th>Name</th>
+			<th>Example(s)</th>
+			<th>Platforms</th>
+			<th>Description</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>BTC address</td>
+			<td>
+				<tt>1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa</tt>
+			</td>
+			<td>
+				bitcoin,
+				lightning,
+				stacks
+			</td>
+		</tr>
+		<tr>
+			<td>e-mail address</td>
+			<td><tt>joebloe@example.com</tt></td>
+			<td>
+				interact e-transfer,
+				paypal
+			</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>EVM address</td>
+			<td><tt>0x00000000219ab540356cBB839Cbe05303d7705Fa</tt></td>
+			<td>
+				arbitrum,
+				avalanche
+				base,
+				berachain,
+				ethereum,
+				fantom,
+				monad,
+				optimism,
+				polygon,
+				sei,
+				<em>etc</em>.
+			</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>payto URI scheme</td></td>
+			<td>
+				<ul>
+					<li>
+						<tt>payto:sepa/DE12345678901234567890</tt> (SEPA (IBAN))
+					</li>
+					<li>
+						<tt>payto:bitcoin/1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa</tt> (BTC)
+					</li>
+					<li>
+						<tt>payto:interac/recipient@example.com</tt> (Interac E-Transfer E-Mail Address)
+					</li>
+					<li>
+						<tt>payto:ach/123456789/987654321</tt> (ACH (USA))
+					</li>
+				</ul>
+			</td>
+			<td></td>
+			<td></td>
+		</tr>
+	</tbody>
+</table>
+
 
 ## Source Technologies
