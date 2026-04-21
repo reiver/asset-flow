@@ -51,7 +51,21 @@
 			<td></td>
 		</tr>
 		<tr>
-			<td>payto URI scheme</td></td>
+			<td>payment pointer</td>
+			<td>
+				<ul>
+					<li><tt>$example.com</tt></li>
+					<li><tt>$joeblow.example.com</tt></li>
+					<li><tt>$example.com/janedoe</tt></li>
+				</ul>
+			</td>
+			<td>
+				interledger
+			</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>payto URI scheme</td>
 			<td>
 				<ul>
 					<li>
