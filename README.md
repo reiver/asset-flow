@@ -63,7 +63,11 @@
 				</ul>
 			</td>
 			<td>SEPA</td>
-			<td>EURO (€) only</td>
+			<td>
+				EURO (€) only.
+				Not just for Europe; over 70 countries worldwide including the UAE, Brazil, and many African nations.
+				The USA and Canada, however, do not use IBANs.
+			</td>
 		</tr>
 		<tr>
 			<td>payment pointer</td>
