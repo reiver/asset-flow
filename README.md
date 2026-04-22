@@ -135,6 +135,17 @@
 			<td></td>
 		</tr>
 		<tr>
+			<td>Marriott Bonvoy loyalty program 9-digit ID</td>
+			<td>
+				<tt>123 456 789</tt>
+			</td>
+			<td>Marriott Bonvoy</td>
+			<td>
+				Marriott Bonvoy loyalty points
+			</td>
+			<td></td>
+		</tr>
+		<tr>
 			<td>payto URI scheme</td>
 			<td>
 				<ul>
