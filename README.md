@@ -99,6 +99,17 @@
 			<td></td>
 		</tr>
 		<tr>
+			<td>Hilton Honors program ID</td>
+			<td>
+				<tt>123456789</tt>
+			</td>
+			<td>Hilton Honors</td>
+			<td>
+				Hilton Honors points
+			</td>
+			<td></td>
+		</tr>
+		<tr>
 			<td>IBAN (International Bank Account Number)</td>
 			<td>
 				<ul>
