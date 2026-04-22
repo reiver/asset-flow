@@ -178,6 +178,15 @@
 			<td></td>
 			<td></td>
 		</tr>
+		<tr>
+			<td>World of Hyatt 8 to 10 character ID</td>
+			<td>
+				<tt>512345678Z</tt>
+			</td>
+			<td>World of Hyatt</td>
+			<td>World of Hyatt points</td>
+			<td></td>
+		</tr>
 	</tbody>
 </table>
 
