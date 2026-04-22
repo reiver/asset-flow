@@ -27,7 +27,10 @@
 				CAD ($),
 				USD ($)
 			</td>
-			<td></td>
+			<td>
+				Canada only.
+				Payments Canada.
+			</td>
 		</tr>
 		<tr>
 			<td>BTC address</td>
