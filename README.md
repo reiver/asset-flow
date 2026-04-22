@@ -131,6 +131,17 @@
 			</td>
 		</tr>
 		<tr>
+			<td>IHG One Rewards 9 to 11 digit ID</td>
+			<td>
+				<tt>12345678901</tt>
+			</td>
+			<td>IHG One Rewards</td>
+			<td>
+				IHG One Rewards points
+			</td>
+			<td></td>
+		</tr>
+		<tr>
 			<td>payment pointer</td>
 			<td>
 				<ul>
